@@ -1,5 +1,6 @@
 # webscrapping
-webscrapping projects 
-In this project i scrapped the data from the movie site whose link is provided below, and stored the
-data in the CSV file.
-https://www.themoviedb.org/movie
+webscrapping projects :
+in those projects above i have scrapped data from various websites anfd stored them in the tabular format in Excel.
+Description of each project is given in the pdf present in each folder.
+
+
