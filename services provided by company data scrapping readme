@@ -1,0 +1,12 @@
+In this project you are required to scrap the data for a Denmark based vendor, the
+company name is TrustPilot.
+Trustpilot.com is a Danish consumer review website founded in Denmark in 2007 which hosts reviews
+of businesses worldwide. Nearly 1 million new reviews are posted each month.
+In this project you are required to scrap data for specific services which are required to be presented to
+the client.
+Below are the urls for the data you are required to fetch.
+https://www.trustpilot.com/categories/financial_institution
+https://www.trustpilot.com/categories/music_movies
+https://www.trustpilot.com/categories/bars_cafes
+https://www.trustpilot.com/categories/doctors_surgeons
+https://www.trustpilot.com/categories/hotels
